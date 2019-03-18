@@ -18,7 +18,7 @@ AdonisJS是一个Node.js MVC框架。它提供了一个稳定的生态系统来�
 使用adonis命令来搭建项目骨架
 
 ```bash
-adonis new adonis-TasksList
+adonis new adonis-JobPostr
 ```
 或者你也可以手动把adonis的仓库clone下来再运行`npm install`
 
